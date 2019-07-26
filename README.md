@@ -13,6 +13,6 @@ y false si el procesos fue corrupto. Tambien está la variable resultado, donde 
 1.- node v6 o más
 
 # instrucciones de uso
-1.- hacer pull del repo
-2.- 'npm install' para instalar dependencias
-3.- 'npm start' para levantar servidor
+1.- hacer pull del repo <br>
+2.- <b>'npm install'</b> para instalar dependencias <br>
+3.- <b>'npm start'</b> para levantar servidor <br>
